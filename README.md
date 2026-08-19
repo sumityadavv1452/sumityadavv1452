@@ -20,13 +20,15 @@ Deepening full-stack and AI/ML skills — working across computer vision, backen
   <img src="https://skillicons.dev/icons?i=python,ts,go,html,css,nextjs,react,tailwind,opencv,docker,androidstudio,gradle,supabase,postgres,firebase,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
+```text
 ⚡ TECHNICAL ECOSYSTEM MATRIX
-├── 💻 Languages : Python · TypeScript · Go · HTML5/CSS3
-├── 🌐 Web & Frontend : Next.js · React · Tailwind CSS
-├── 🤖 AI/ML & Vision : OpenCV · Automation Pipelines · NLP (applied)
-├── 🗄️ Backend & Data : Pandas · SMTP/Email APIs · APScheduler · Supabase · PostgreSQL · Firebase
-├── 📦 DevOps & Build : Docker · Gradle · GitHub Actions · Vercel
-└── 🛠️ Tools : Git · GitHub · Android Studio (IDE) · Visual Studio Code
+├── 💻 Languages      : Python · TypeScript · Go · HTML5/CSS3
+├── 🌐 Web & Frontend  : Next.js · React · Tailwind CSS
+├── 🤖 AI/ML & Vision  : OpenCV · Automation Pipelines · NLP (applied)
+├── 🗄️  Backend & Data  : Pandas · SMTP/Email APIs · APScheduler · Supabase · PostgreSQL · Firebase
+├── 📦 DevOps & Build  : Docker · Gradle · GitHub Actions · Vercel
+└── 🛠️  Tools           : Git · GitHub · Android Studio (IDE) · Visual Studio Code
+```
 
 
 ---
