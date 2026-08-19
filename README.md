@@ -37,13 +37,34 @@ Deepening full-stack and AI/ML skills — working across computer vision, backen
 
 Client-style demo builds designed and deployed to demonstrate production-grade UI/UX and full-stack delivery.
 
-**Cafe America** — Modern café/restaurant web experience, responsive design, deployed end-to-end.
-🔗 Live: [cafe-america.vercel.app](https://cafe-america.vercel.app) · [Source](https://github.com/sumityadavv1452/Cafe-America)
+<table>
+<tr>
+<td width="50%">
+
+<img src="./assets/cafe-america.png" width="100%" alt="Cafe America screenshot">
+
+**Cafe America**
+Modern café/restaurant web experience, responsive design, deployed end-to-end.
+
+🔗 [Live Demo](https://cafe-america.vercel.app) · [Source Code](https://github.com/sumityadavv1452/Cafe-America)
+
 `TypeScript` `Next.js` `Vercel`
 
-**Radhe-Radhe Enterprises** — Business/enterprise company website, built and deployed as a client-ready demo.
-🔗 Live: [radhe-green.vercel.app](https://radhe-green.vercel.app) · [Source](https://github.com/sumityadavv1452/Radhe-Radhe-Enterprises)
+</td>
+<td width="50%">
+
+<img src="./assets/radhe-radhe-enterprises.png" width="100%" alt="Radhe-Radhe Enterprises screenshot">
+
+**Radhe-Radhe Enterprises**
+Business/enterprise company website, built and deployed as a client-ready demo.
+
+🔗 [Live Demo](https://radhe-green.vercel.app) · [Source Code](https://github.com/sumityadavv1452/Radhe-Radhe-Enterprises)
+
 `HTML/CSS` `Vercel`
+
+</td>
+</tr>
+</table>
 
 ### AI / ML / Automation
 
