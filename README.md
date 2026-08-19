@@ -46,7 +46,7 @@ Client-style demo builds designed and deployed to demonstrate production-grade U
 **Cafe America**
 Modern café/restaurant web experience, responsive design, deployed end-to-end.
 
-🔗 [Live Demo](https://cafe-america.vercel.app) · [Source Code](https://github.com/sumityadavv1452/Cafe-America)
+🔗 [Live Demo](https://cafe-america.vercel.app)
 
 `TypeScript` `Next.js` `Vercel`
 
@@ -58,7 +58,7 @@ Modern café/restaurant web experience, responsive design, deployed end-to-end.
 **Radhe-Radhe Enterprises**
 Business/enterprise company website, built and deployed as a client-ready demo.
 
-🔗 [Live Demo](https://radhe-green.vercel.app) · [Source Code](https://github.com/sumityadavv1452/Radhe-Radhe-Enterprises)
+🔗 [Live Demo](https://radhe-green.vercel.app)
 
 `HTML/CSS` `Vercel`
 
