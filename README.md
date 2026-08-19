@@ -62,15 +62,6 @@ Tool for analyzing news content to help flag potential misinformation.
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumityadavv1452&show_icons=true&theme=default&hide_border=true&hide_title=true" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumityadavv1452&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages">
-</p>
-
----
-
 ## Contact
 
 - **Email:** sumit1452yadav@gmail.com
