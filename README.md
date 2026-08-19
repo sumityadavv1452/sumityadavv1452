@@ -1,14 +1,18 @@
-# Sumit Yadav
+<div align="center">
 
-**Full-Stack Developer · AI/ML & Automation**
+# Hey there, I'm **Sumit Yadav** 👋
 
-B.S. Data Science, IIT Madras · B.Tech CSE (AI), UIET Kanpur
+### Full-Stack Developer · AI/ML & Automation
 
-I build end-to-end systems — automation pipelines, computer-vision applications, and full-stack web products — and ship them to production rather than leaving them as tutorials.
+**B.S. Data Science, IIT Madras** · **B.Tech CSE (AI), UIET Kanpur**
 
-[LinkedIn](https://www.linkedin.com/in/sumit-yadav-b96285348) · [Email](mailto:sumit1452yadav@gmail.com) · [WhatsApp](https://wa.me/918382803322)
+<br>
 
----
+*I build end-to-end systems — automation pipelines, computer-vision applications, and full-stack web products — and ship them to production rather than leaving them as tutorials.*
+
+</div>
+
+<br>
 
 ## Currently
 
