@@ -28,7 +28,7 @@ Deepening full-stack and AI/ML skills — working across computer vision, backen
 ⚡ TECHNICAL ECOSYSTEM MATRIX
 ├── 💻 Languages      : Python · TypeScript · Go · HTML5/CSS3
 ├── 🌐 Web & Frontend  : Next.js · React · Tailwind CSS
-├── 🤖 AI/ML & Vision  : OpenCV · Automation Pipelines · NLP (applied)
+├── 🤖 AI/ML & Vision  : OpenCV · Playwright · Browser Automation (CDP) · Automation Pipelines · NLP (applied)
 ├── 🗄️  Backend & Data  : Pandas · SMTP/Email APIs · APScheduler · Supabase · PostgreSQL · Firebase
 ├── 📦 DevOps & Build  : Docker · Gradle · GitHub Actions · Vercel
 └── 🛠️  Tools           : Git · GitHub · Android Studio (IDE) · Visual Studio Code
@@ -70,9 +70,29 @@ Business/enterprise company website, built and deployed as a client-ready demo.
 
 </td>
 </tr>
+<tr>
+<td colspan="2">
+
+**[Inji Interop Playground](https://github.com/sumityadavv1452/inji-interop-playground)**  
+Modular interoperability testing environment built on open-source digital identity standards and playground protocols.
+
+🔗 [Repository](https://github.com/sumityadavv1452/inji-interop-playground)
+
+`TypeScript` `Web Standards`
+
+</td>
+</tr>
 </table>
 
 ### AI / ML / Automation
+
+**[Swiggy Instamart Assistant](https://github.com/sumityadavv1452/Swiggy-Instamart-Automation-Assistant)**  
+Autonomous grocery order agent featuring real-time CDP session control, smart free-delivery fee optimization, and payment dispatch.  
+`Python` `Playwright` `Streamlit`
+
+**[GraphHacks](https://github.com/sumityadavv1452/GraphHacks)**  
+Automation utility script for activity mapping and visual matrix data generation.  
+`JavaScript` `Node.js`
 
 **[Email Automation System](https://github.com/sumityadavv1452/Email-Automation-System)**
 End-to-end automation tool for personalized bulk email delivery — SMTP & Email API support, HTML templating, retry logic, scheduling, and full delivery logging.
