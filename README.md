@@ -20,20 +20,18 @@ Deepening full-stack and AI/ML skills — working across computer vision, backen
 
 ## 🛠️ Tech Stack & Expertise
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,go,html,css,nextjs,react,tailwind,flutter,opencv,playwright,docker,androidstudio,gradle,supabase,postgres,firebase,git,github,vscode,vercel" alt="My Skills" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,cpp,c,go,html,css,nextjs,react,tailwind&perline=11)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=flutter,opencv,selenium,nodejs,docker,androidstudio,gradle,supabase,postgres,firebase,git,github,vscode,vercel&perline=11)](https://skillicons.dev)
 
 ```text
 ⚡ TECHNICAL ECOSYSTEM MATRIX
-├── 💻 Languages      : Python · TypeScript · JavaScript · C/C++ · Go · HTML5/CSS3
-├── 🌐 Web & Frontend  : Next.js · React · Tailwind CSS · Flutter
-├── 🤖 AI/ML & Vision  : OpenCV · Playwright · Browser Automation (CDP) · Automation Pipelines · NLP (applied)
-├── 🗄️  Backend & Data  : Pandas · SMTP/Email APIs · APScheduler · Supabase · PostgreSQL · Firebase
-├── 📦 DevOps & Build  : Docker · Gradle · GitHub Actions · Vercel
-└── 🛠️  Tools           : Git · GitHub · Android Studio (IDE) · Visual Studio Code
+├── 💻 Languages       : Python · TypeScript · JavaScript · C/C++ · Go · HTML5/CSS3
+├── 🌐 Web & Frontend   : Next.js · React · Three.js · Tailwind CSS · Flutter · Streamlit
+├── 🤖 AI/ML & Vision   : OpenCV · MediaPipe · Scikit-learn · Browser Automation (Playwright / CDP) · NLP
+├── 🗄️ Backend & Data   : Pandas · NumPy · Supabase · PostgreSQL · Firebase · SMTP/APIs
+├── 📦 DevOps & Build   : Docker · Gradle · GitHub Actions · Vercel
+└── 🛠️ Tools           : Git · GitHub · Android Studio (IDE) · Visual Studio Code · Antigravity
 ```
 
 
