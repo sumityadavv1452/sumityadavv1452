@@ -20,9 +20,8 @@ Deepening full-stack and AI/ML skills — working across computer vision, backen
 
 ## 🛠️ Tech Stack & Expertise
 
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,cpp,c,go,html,css,nextjs,react,tailwind&perline=11)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=flutter,opencv,selenium,nodejs,docker,androidstudio,gradle,supabase,postgres,firebase,git,github,vscode,vercel&perline=11)](https://skillicons.dev)
+[![Row 1](https://skillicons.dev/icons?i=python,ts,js,cpp,c,go,html,css,nextjs,react,tailwind,flutter&perline=12)](https://skillicons.dev)  
+[![Row 2](https://skillicons.dev/icons?i=opencv,selenium,nodejs,docker,androidstudio,gradle,supabase,postgres,firebase,git,github,vscode&perline=12)](https://skillicons.dev)
 
 ```text
 ⚡ TECHNICAL ECOSYSTEM MATRIX
