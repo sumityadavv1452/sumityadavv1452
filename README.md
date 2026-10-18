@@ -21,13 +21,15 @@ Deepening full-stack and AI/ML skills — working across computer vision, backen
 ## 🛠️ Tech Stack & Expertise
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,go,html,css,nextjs,react,tailwind,opencv,docker,androidstudio,gradle,supabase,postgres,firebase,git,github,vscode" alt="Tech Stack Icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,go,html,css,nextjs,react,tailwind,flutter,opencv,playwright,docker,androidstudio,gradle,supabase,postgres,firebase,git,github,vscode,vercel" alt="My Skills" />
+  </a>
 </p>
 
 ```text
 ⚡ TECHNICAL ECOSYSTEM MATRIX
-├── 💻 Languages      : Python · TypeScript · Go · HTML5/CSS3
-├── 🌐 Web & Frontend  : Next.js · React · Tailwind CSS
+├── 💻 Languages      : Python · TypeScript · JavaScript · C/C++ · Go · HTML5/CSS3
+├── 🌐 Web & Frontend  : Next.js · React · Tailwind CSS · Flutter
 ├── 🤖 AI/ML & Vision  : OpenCV · Playwright · Browser Automation (CDP) · Automation Pipelines · NLP (applied)
 ├── 🗄️  Backend & Data  : Pandas · SMTP/Email APIs · APScheduler · Supabase · PostgreSQL · Firebase
 ├── 📦 DevOps & Build  : Docker · Gradle · GitHub Actions · Vercel
